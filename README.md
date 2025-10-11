@@ -3,7 +3,7 @@
 
 _** Note that the longer title shall only be used for the homepage_
 
-**Logos:**
+# Logos:
 
 
 ![IMG_1589](https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e)
@@ -12,7 +12,7 @@ _**Will be used for all pages_
 _**Icon that will appear on the browser tab_
 
 
-##Description:
+# Description:
 
 Welcome, dear creators and readers, to the Vestigial Archives, an archive dedicated to documenting the stories and personalities of the authors’ treasured original characters (OCs). Here, you’ll find detailed descriptions of their lore, the world they live in, relationships between characters, and even their old designs or concepts.
 
@@ -22,7 +22,7 @@ Not to worry! We’ll be sure to provide you with some useful tips and tricks to
 
 So, ladies, gentlemen, and they thems, are you ready to embark on a journey through the OCverse?
 
-##Outline:
+# Outline:
 Main hall (home page)
 Description: Contains the introduction and overview of the website. These will contain the hyperlinks to the other subpages (e.g., Characters, worlds) and maybe some secrets too. 
 
@@ -47,7 +47,7 @@ Description: Contains the introduction and overview of the website. These will c
 
 
 
-**How JS will be incorporated:**
+# How JS will be incorporated:
 
  We will be creating a “what type of OC are you?” quiz, which will also utilize logical functions, event handling, and data management in JavaScript. The results will vary based on the answers the player/user picks
 
