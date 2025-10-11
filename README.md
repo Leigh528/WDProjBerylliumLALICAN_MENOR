@@ -28,22 +28,22 @@ Description: Contains the introduction and overview of the website. These will c
 
 **Subpages**
 * Characters: 
-                         > Description: A collection of some of the authors' OCs., As of now, it is still incomplete. Hopefully, in the future, we will be able to reach our goal of completion.  
+  * Description: A collection of some of the authors' OCs., As of now, it is still incomplete. Hopefully, in the future, we will be able to reach our goal of completion.  
 
-* World information
-						> Description:  Explains how the fictional world works ( this may only apply to ONE of our authors, though.. I’m looking at you, Leigh)
+* World information:
+  *Description:  Explains how the fictional world works ( this may only apply to ONE of our authors, though.. I’m looking at you, Leigh)
 
 * Art:
- 						> Description: Will showcase some art of said characters and maybe will show some future designs that might be canon to their universe
+  *Description: Will showcase some art of said characters and maybe will show some future designs that might be canon to their universe
 
 * Guide: 
-		 				 > Description: This page will explain some tips and tricks for creators to make lore and/or designs for their characters!
+  *Description: This page will explain some tips and tricks for creators to make lore and/or designs for their characters!
 
-* About the Authors
-						 > Description: As the title suggests, this page is about the two authors, Sol and Leigh, and how their interests culminated in the creation of their original characters.
+* About the Authors:
+  *Description: As the title suggests, this page is about the two authors, Sol and Leigh, and how their interests culminated in the creation of their original characters.
 
 * Quiz page:
- 						 > Description: It would be similar to those “ which ___ are you?” type of quizzes, but instead will use our original characters. 
+  *Description: It would be similar to those “ which ___ are you?” type of quizzes, but instead will use our original characters. 
 
 
 
