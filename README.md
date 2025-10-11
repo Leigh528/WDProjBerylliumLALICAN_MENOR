@@ -1,17 +1,17 @@
 # Leigh528-WDProjBerylliumLALICAN_MENOR
-Title: Vestigial Archives: A guide to the OCverse and matters alike 
-** Note that the longer title shall only be used for the homepage
+**Title: Vestigial Archives: A guide to the OCverse and matters alike **
+_** Note that the longer title shall only be used for the homepage_
 
-Logos:
-
-
-<img src = "![IMG_1589](https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e)" width: "50">
-                                **Will be used for all pages   
-![IMG_1590](https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311)
-                           **Icon that will appear on the browser tab
+**Logos:**
 
 
-Description:
+![IMG_1589](https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e)
+_**Will be used for all pages   _
+![IMG_1590](https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311) 
+_**Icon that will appear on the browser tab_
+
+
+**Description:**
 
 Welcome, dear creators and readers, to the Vestigial Archives, an archive dedicated to documenting the stories and personalities of the authors’ treasured original characters (OCs). Here, you’ll find detailed descriptions of their lore, the world they live in, relationships between characters, and even their old designs or concepts.
 
