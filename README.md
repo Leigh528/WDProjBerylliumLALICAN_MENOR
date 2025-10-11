@@ -12,7 +12,7 @@ _**Will be used for all pages_
 _**Icon that will appear on the browser tab_
 
 
-**Description:**
+##Description:
 
 Welcome, dear creators and readers, to the Vestigial Archives, an archive dedicated to documenting the stories and personalities of the authors’ treasured original characters (OCs). Here, you’ll find detailed descriptions of their lore, the world they live in, relationships between characters, and even their old designs or concepts.
 
@@ -22,7 +22,7 @@ Not to worry! We’ll be sure to provide you with some useful tips and tricks to
 
 So, ladies, gentlemen, and they thems, are you ready to embark on a journey through the OCverse?
 
-**Outline:**
+##Outline:
 Main hall (home page)
 Description: Contains the introduction and overview of the website. These will contain the hyperlinks to the other subpages (e.g., Characters, worlds) and maybe some secrets too. 
 
