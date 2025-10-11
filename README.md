@@ -1,7 +1,6 @@
 # Leigh528-WDProjBerylliumLALICAN_MENOR
 # Title: Vestigial Archives: 
- ## Subtitle Vestigial Archives: A guide to the OCverse and matters alike.
-
+ * Subtitle Vestigial Archives: A guide to the OCverse and matters alike.
 _** Note that the longer title shall only be used for the homepage_
 
 # Logos:
