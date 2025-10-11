@@ -51,9 +51,9 @@ Description: Contains the introduction and overview of the website. These will c
 
  We will be creating a “what type of OC are you?” quiz, which will also utilize logical functions, event handling, and data management in JavaScript. The results will vary based on the answers the player/user picks
 
+ * Ex: 
 
-
-
+![Example](https://github.com/user-attachments/assets/3bfe80c9-13c3-44dd-b3c6-78ab2a9638d8)
 
 
 
