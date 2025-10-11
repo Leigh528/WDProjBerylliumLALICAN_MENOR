@@ -7,7 +7,7 @@ _** Note that the longer title shall only be used for the homepage_
 
 
 ![IMG_1589](https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e)
-_**Will be used for all pages   _
+_**Will be used for all pages_
 ![IMG_1590](https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311) 
 _**Icon that will appear on the browser tab_
 
@@ -31,19 +31,19 @@ Description: Contains the introduction and overview of the website. These will c
                          > Description: A collection of some of the authors' OCs., As of now, it is still incomplete. Hopefully, in the future, we will be able to reach our goal of completion.  
 
 * World information
- > Description:  Explains how the fictional world works ( this may only apply to ONE of our authors, though.. I’m looking at you, Leigh)
+						> Description:  Explains how the fictional world works ( this may only apply to ONE of our authors, though.. I’m looking at you, Leigh)
 
 * Art:
- > Description: Will showcase some art of said characters and maybe will show some future designs that might be canon to their universe
+ 						> Description: Will showcase some art of said characters and maybe will show some future designs that might be canon to their universe
 
 * Guide: 
-		  > Description: This page will explain some tips and tricks for creators to make lore and/or designs for their characters!
+		 				 > Description: This page will explain some tips and tricks for creators to make lore and/or designs for their characters!
 
 * About the Authors
-		 > Description: As the title suggests, this page is about the two authors, Sol and Leigh, and how their interests culminated in the creation of their original characters.
+						 > Description: As the title suggests, this page is about the two authors, Sol and Leigh, and how their interests culminated in the creation of their original characters.
 
 * Quiz page:
- 		 > Description: It would be similar to those “ which ___ are you?” type of quizzes, but instead will use our original characters. 
+ 						 > Description: It would be similar to those “ which ___ are you?” type of quizzes, but instead will use our original characters. 
 
 
 
