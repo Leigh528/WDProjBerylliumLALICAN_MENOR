@@ -57,4 +57,5 @@ Description: Contains the introduction and overview of the website. These will c
 ![Example](https://github.com/user-attachments/assets/3bfe80c9-13c3-44dd-b3c6-78ab2a9638d8)
 
 
-
+# Initial Wireframe
+_**Note that things are subjected to change as my coding skills are not the best_
