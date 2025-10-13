@@ -71,7 +71,7 @@ Description: Contains the introduction and overview of the website. These will c
 _**Note that things are subjected to change as my coding skills are not the best_
 
 **Homepage:**
-![1000011453](https://github.com/user-attachments/assets/31ca5188-10c5-4bcc-ae19-51b0a064e063)
+![1000011453](https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac)
 
 **Characters:**
 ![1000011456](https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b)
