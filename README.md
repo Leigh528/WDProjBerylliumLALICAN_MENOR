@@ -70,22 +70,29 @@ Description: Contains the introduction and overview of the website. These will c
 # Initial Wireframe
 _**Note that things are subjected to change as my coding skills are not the best_
 
-**Homepage:**
-![1000011453](https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac)
+<div align="center">
+  <h2>Homepage:</h2>
+  <img src="https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac" width="450" height="450" />
 
-**Characters:**
-![1000011456](https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b)
+  **Characters:**
+  
+  <img src="https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b" width="450" height="450" />
 
-**Worlds:**
+  **Worlds:**
 
-**Art/Gallery:**
-![1000011455](https://github.com/user-attachments/assets/8d85b8f0-3b3a-407b-9f79-cca95ae86661)
 
-**Guide & Quiz/Study hall:**
+  **Art/Gallery:**
+  
+  <img src="https://github.com/user-attachments/assets/8d85b8f0-3b3a-407b-9f79-cca95ae86661" width="450" height="450" />
 
-![1000011458](https://github.com/user-attachments/assets/fd5fdf42-6a53-451d-90a4-d03733a2a435)
+  **Guide & Quiz/Study Hall:**
+  
+  <img src="https://github.com/user-attachments/assets/fd5fdf42-6a53-451d-90a4-d03733a2a435" width="450" height="450" />
 
-**About the Authors/ Authors' office**
-![1000011459](https://github.com/user-attachments/assets/14559950-ed54-4c36-8dfb-759c6c515e62)
+  **About the Authors / Authors' Office:**
+  
+  <img src="https://github.com/user-attachments/assets/14559950-ed54-4c36-8dfb-759c6c515e62" width="450" height="450" />
+</div>
+)
 
 
