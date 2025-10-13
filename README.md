@@ -6,13 +6,20 @@ _** Note that the longer title shall only be used for the homepage_
 
 # Logos:
 
+<div align="center">
 
-<img src="https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e" width="250" height="250" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e" width="250" height="250" />
+    <p><em><strong>Will be used for all pages</strong></em></p>
+  </div>
 
-_**Will be used for all pages_
-<img src="https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311" width="250" height="250" />
+  <div style="display: inline-block; text-align: center; margin: 10px;">
+    <img src="https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311" width="250" height="250" />
+    <p><em><strong>Icon that will appear on the browser tab</strong></em></p>
+  </div>
 
-_**Icon that will appear on the browser tab_
+</div>
+
 
 
 # Description:
