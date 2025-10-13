@@ -20,8 +20,6 @@ _** Note that the longer title shall only be used for the homepage_
 
 </div>
 
-
-
 # Description:
 
 Welcome, dear creators and readers, to the Vestigial Archives, an archive dedicated to documenting the stories and personalities of the authors’ treasured original characters (OCs). Here, you’ll find detailed descriptions of their lore, the world they live in, relationships between characters, and even their old designs or concepts.
