@@ -1,4 +1,4 @@
-# Leigh528-WDProjBerylliumLALICAN_MENOR
+# WDProjBerylliumLALICAN_MENOR
  **Title: Vestigial Archives:**
  * Subtitle Vestigial Archives: A guide to the OCverse and matters alike.
 
