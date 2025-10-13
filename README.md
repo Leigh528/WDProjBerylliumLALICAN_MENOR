@@ -69,3 +69,6 @@ Description: Contains the introduction and overview of the website. These will c
 
 # Initial Wireframe
 _**Note that things are subjected to change as my coding skills are not the best_
+<img src = "![1000011453](https://github.com/user-attachments/assets/b8589749-75f8-47cf-9bff-6b1bc1eda80f)">
+
+
