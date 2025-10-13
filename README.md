@@ -71,7 +71,8 @@ Description: Contains the introduction and overview of the website. These will c
 _**Note that things are subjected to change as my coding skills are not the best_
 
 <div align="center">
-  Homepage: 
+  **Homepage:**
+  
   <img src="https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac" width="450" height="450" />
 
   **Characters:**
