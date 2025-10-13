@@ -69,6 +69,23 @@ Description: Contains the introduction and overview of the website. These will c
 
 # Initial Wireframe
 _**Note that things are subjected to change as my coding skills are not the best_
-<img src = "![1000011453](https://github.com/user-attachments/assets/b8589749-75f8-47cf-9bff-6b1bc1eda80f)">
+
+**Homepage:**
+<img src = "![1000011453](https://github.com/user-attachments/assets/31ca5188-10c5-4bcc-ae19-51b0a064e063)">
+
+**Characters:**
+![1000011456](https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b)
+
+**Worlds:**
+
+**Art/Gallery:**
+![1000011455](https://github.com/user-attachments/assets/8d85b8f0-3b3a-407b-9f79-cca95ae86661)
+
+**Guide & Quiz/Study hall:**
+
+![1000011458](https://github.com/user-attachments/assets/fd5fdf42-6a53-451d-90a4-d03733a2a435)
+
+**About the Authors/ Authors' office**
+![1000011459](https://github.com/user-attachments/assets/14559950-ed54-4c36-8dfb-759c6c515e62)
 
 
