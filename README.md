@@ -73,6 +73,7 @@ _**Note that things are subjected to change as my coding skills are not the best
 <div align="center">
 
   **Homepage:**
+  <br>
   <img src="https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac" width="450" height="450" alt="Homepage" />
   <br>
 
