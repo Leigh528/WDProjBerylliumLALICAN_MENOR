@@ -80,6 +80,8 @@ _**Note that things are subjected to change as my coding skills are not the best
 
   **Worlds:**
 
+<img src ="![1000011460](https://github.com/user-attachments/assets/67ef2673-fa5c-4232-83d7-215944792d08)
+" width="450" height="450" />
 
   **Art/Gallery:**
   
@@ -93,6 +95,6 @@ _**Note that things are subjected to change as my coding skills are not the best
   
   <img src="https://github.com/user-attachments/assets/14559950-ed54-4c36-8dfb-759c6c515e62" width="450" height="450" />
 </div>
-)
+
 
 
