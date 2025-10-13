@@ -7,10 +7,11 @@ _** Note that the longer title shall only be used for the homepage_
 # Logos:
 
 
-<img src="https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e" width="150" height="150" />
+<img src="https://github.com/user-attachments/assets/7c0df884-ef1b-4145-b431-ca67c1f2a06e" width="250" height="250" />
 
 _**Will be used for all pages_
-![IMG_1590](https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311) 
+<img src="https://github.com/user-attachments/assets/3b00e723-f4bf-49f9-813c-dba3d70fd311" width="250" height="250" />
+
 _**Icon that will appear on the browser tab_
 
 
