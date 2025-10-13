@@ -71,30 +71,27 @@ Description: Contains the introduction and overview of the website. These will c
 _**Note that things are subjected to change as my coding skills are not the best_
 
 <div align="center">
- 
+
   **Homepage:**
-  
-  <img src="https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac" width="450" height="450" />
+  <img src="https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac" width="450" height="450" alt="Homepage" />
 
   **Characters:**
-  
-  <img src="https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b" width="450" height="450" />
+  <img src="https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b" width="450" height="450" alt="Characters" />
 
   **Worlds:**
-<img src ="https://github.com/user-attachments/assets/67ef2673-fa5c-4232-83d7-215944792d08" width="450" height="450" />
+  <img src="https://github.com/user-attachments/assets/67ef2673-fa5c-4232-83d7-215944792d08" width="450" height="450" alt="Worlds" />
 
-  **Art/Gallery:**
-  
-  <img src="https://github.com/user-attachments/assets/8d85b8f0-3b3a-407b-9f79-cca95ae86661" width="450" height="450" />
+  **Art / Gallery:**
+  <img src="https://github.com/user-attachments/assets/8d85b8f0-3b3a-407b-9f79-cca95ae86661" width="450" height="450" alt="Art Gallery" />
 
-  **Guide & Quiz/Study Hall:**
-  
-  <img src="https://github.com/user-attachments/assets/fd5fdf42-6a53-451d-90a4-d03733a2a435" width="450" height="450" />
+  **Guide & Quiz / Study Hall:**
+  <img src="https://github.com/user-attachments/assets/fd5fdf42-6a53-451d-90a4-d03733a2a435" width="450" height="450" alt="Guide & Quiz / Study Hall" />
 
   **About the Authors / Authors' Office:**
-  
-  <img src="https://github.com/user-attachments/assets/14559950-ed54-4c36-8dfb-759c6c515e62" width="450" height="450" />
+  <img src="https://github.com/user-attachments/assets/14559950-ed54-4c36-8dfb-759c6c515e62" width="450" height="450" alt="Authors Office" />
+
 </div>
+
 
 
 
