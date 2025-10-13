@@ -71,7 +71,7 @@ Description: Contains the introduction and overview of the website. These will c
 _**Note that things are subjected to change as my coding skills are not the best_
 
 <div align="center">
-  <h2>Homepage:</h2>
+  Homepage: 
   <img src="https://github.com/user-attachments/assets/d08ad7ea-26c5-4e5b-9ee2-206f4aac61ac" width="450" height="450" />
 
   **Characters:**
@@ -79,7 +79,6 @@ _**Note that things are subjected to change as my coding skills are not the best
   <img src="https://github.com/user-attachments/assets/558b130e-5df3-4fde-ac39-eb467ac8f08b" width="450" height="450" />
 
   **Worlds:**
-
 <img src ="https://github.com/user-attachments/assets/67ef2673-fa5c-4232-83d7-215944792d08" width="450" height="450" />
 
   **Art/Gallery:**
