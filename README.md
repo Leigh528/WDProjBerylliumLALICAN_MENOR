@@ -70,10 +70,9 @@ Ex:
 _**Note that things are subjected to change_
 
 # Initial Wireframe
-
 _** Note that this will be included at the bottom of all pages:_
-<img src = "https://github.com/user-attachments/assets/b268454c-6260-4015-8ac3-1567fcc966d4" width="450" height="450" alt="Copywrite"/>
-
+![Screenshot 2025-10-23 124029](https://github.com/user-attachments/assets/e78015f2-99b7-47a1-910a-68a69a887b3b)
+<br>
 <div align="center">
 
   **Homepage:**
