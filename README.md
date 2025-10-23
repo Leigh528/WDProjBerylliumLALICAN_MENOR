@@ -68,10 +68,11 @@ Ex:
 
 
 _**Note that things are subjected to change_
-_**Also note that this will be included at the bottom of all pages:_
-<img src = "(https://github.com/user-attachments/assets/b268454c-6260-4015-8ac3-1567fcc966d4)" width="450" height="450" alt="Copywrite"/>
 
 # Initial Wireframe
+
+_** Note that this will be included at the bottom of all pages:_
+<img src = "(https://github.com/user-attachments/assets/b268454c-6260-4015-8ac3-1567fcc966d4)" width="450" height="450" alt="Copywrite"/>
 
 <div align="center">
 
