@@ -67,8 +67,11 @@ Ex:
 ![Example](https://github.com/user-attachments/assets/3bfe80c9-13c3-44dd-b3c6-78ab2a9638d8)
 
 
-# Initial Wireframe
 _**Note that things are subjected to change_
+_**Also note that this will be included at the bottom of all pages:_
+<img src = "(https://github.com/user-attachments/assets/b268454c-6260-4015-8ac3-1567fcc966d4)" width="450" height="450" alt="Copywrite"/>
+
+# Initial Wireframe
 
 <div align="center">
 
