@@ -120,73 +120,13 @@
     border-radius: 0;
   }
 
-  .asktheuser {
-    margin: 0 0 10px;
-    font-size: 20px;
-    font-style: italic;
+  main {
+    max-width: 1000px;
+    margin: 120px auto 60px;
+    padding: 0 16px;
   }
 
-  .doors {
-    display: grid;
-    grid-template-columns: repeat(3, 200px);
-    justify-content: space-around;
-    gap: 14px;    
-    margin-top: 620px;
-    margin-bottom: 40px;
-  }
-
-  .door {
-    background: linear-gradient(#ffffff, #f5e7c8);
-    border: 1px solid #e0d7c3;
-    height: 220px;
-    width: 120px;
-    padding: 10px;
-    text-align: center;
-    text-decoration: none;
-    color: brown;
-    font-size: 16px;
-    font-weight: bold;
-    box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
-    display: flex;
-    align-items:center;
-    justify-content:center;
-    
-    transition: 
-     background 0.2s ease,
-     transform 0.15s ease,
-     box-shadow 0.15s ease;
-  }
-
-  .door span {
-    display: inline-block;
-    position: relative;
-    transition: 0.5s;
-  }
-
-  .door span:after {
-    content: '\00bb';
-    position: absolute;
-    opacity: 0;
-    right: -20px;
-    transition: 0.5s;
-  }
-
-  .door:hover span {
-    padding-right: 25px;
-  }
-
-  .door:hover span:after {
-    opacity: 1;
-    right: 0;
-  }
-
-  .door:hover {
-    background: linear-gradient(#f5e7c8, #ffffff);
-    transform: translateY(-2px);
-    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
-  }
-
-  </style>
+    </style>
 </head>
 
 <body>
@@ -208,10 +148,5 @@
     </div>
   </div>
 </div>
-  <section class="doors">
-    <a class="door" href="studyhall.html"><span>Study Hall</span></a>
-    <a class="door" href="authorinfo.html"><span>About the Authors</span></a>
-    <a class="door" href="gallery.html"><span>Gallery</span></a>
-  </section>
 </body>
 </html>
