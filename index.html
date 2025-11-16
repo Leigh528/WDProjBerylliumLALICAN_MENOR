@@ -51,6 +51,54 @@
     flex-wrap: wrap;
   }
 
+  .btn-one {
+  color: #FFF;
+  transition: all 0.3s;
+  position: relative;
+}
+  .btn-one span {
+  transition: all 0.3s;
+}
+  .btn-one::before {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  opacity: 0;
+  transition: all 0.3s;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-top-style: solid;
+  border-bottom-style: solid;
+  border-top-color: rgba(255,255,255,0.5);
+  border-bottom-color: rgba(255,255,255,0.5);
+  transform: scale(0.1, 1);
+}
+  .btn-one:hover span {
+  letter-spacing: 2px;
+}
+  .btn-one:hover::before {
+  opacity: 1; 
+  transform: scale(1, 1); 
+}
+  .btn-one::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  transition: all 0.3s;
+}
+  .btn-one:hover::after {
+  opacity: 0; 
+  transform: scale(0.1, 1);
+}
+
   .navlinks a {
     padding: 10px 8px;
     text-decoration: none;
@@ -60,8 +108,6 @@
     box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
     transition: transform 0.1s, box-shadow 0.1s, background 0.1s;
     border-radius: 20px;
-    height: auto;
-    width: auto;
   }
 
   .navlinks a:hover {
@@ -78,7 +124,8 @@
 
   .doors {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3, 200px);
+    justify-content: space-around;
     gap: 14px;    
     margin-top: 620px;
     margin-bottom: 40px;
@@ -87,19 +134,46 @@
   .door {
     background: linear-gradient(#ffffff, #f5e7c8);
     border: 1px solid #e0d7c3;
-    border-radius: 18px;
-    padding: 26px 14px;
+    height: 220px;
+    width: 120px;
+    padding: 10px;
     text-align: center;
     text-decoration: none;
     color: brown;
     font-size: 16px;
     font-weight: bold;
     box-shadow: 0 10px 25px rgba(0, 0, 0, 0.12);
+    display: flex;
+    align-items:center;
+    justify-content:center;
     
     transition: 
      background 0.2s ease,
      transform 0.15s ease,
      box-shadow 0.15s ease;
+  }
+
+  .door span {
+    display: inline-block;
+    position: relative;
+    transition: 0.5s;
+  }
+
+  .door span:after {
+    content: '\00bb';
+    position: absolute;
+    opacity: 0;
+    right: -20px;
+    transition: 0.5s;
+  }
+
+  .door:hover span {
+    padding-right: 25px;
+  }
+
+  .door:hover span:after {
+    opacity: 1;
+    right: 0;
   }
 
   .door:hover {
@@ -116,12 +190,12 @@
   <div class="navinner">
 
     <nav class="navlinks">
-      <a href="#" class="active">Main Hall</a>
-      <a href="#">Study Hall</a>
-      <a href="#">The Gallery</a>
-      <a href="#">World Information</a>
-      <a href="#">Characters</a>
-      <a href="#">About the Authors</a>
+      <a href="#" class="btn-one"><span>Main Hall</span></a>
+      <a href="#" class="btn-one"><span>Study Hall</span></a>
+      <a href="#" class="btn-one"><span>The Gallery</span></a>
+      <a href="#" class="btn-one"><span>World Information</span></a>
+      <a href="#" class="btn-one"><span>Characters</span></a>
+      <a href="#" class="btn-one"><span>About the Authors</span></a>
     </nav>
 
     <div class="navleft">
@@ -131,9 +205,9 @@
   </div>
 </div>
   <section class="doors">
-    <a class="door" href="#">Study Hall</a>
-    <a class="door" href="#">About the Authors</a>
-    <a class="door" href="#">Gallery</a>
+    <a class="door" href="#"><span>Study Hall</span></a>
+    <a class="door" href="#"><span>About the Authors</span></a>
+    <a class="door" href="#"><span>Gallery</span></a>
   </section>
 </body>
 </html>
